@@ -1,1 +1,0 @@
-tried tailwind and failed so i switched to CSS 🥲💔 
