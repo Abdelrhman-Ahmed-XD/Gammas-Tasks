@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93e62561-974c-456e-9e6e-3b0420e91f7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../accordion_task/src/Accordion/Accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../accordion_task/src/Accordion/Accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../accordion_task/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cardtask/.idea/cardtask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionary-web-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/README-template.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/preview.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/inconsolata/Inconsolata-VariableFont_wdth,wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/inconsolata/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/inconsolata/static/Inconsolata-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/inconsolata/static/Inconsolata-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/inter/Inter-VariableFont_slnt,wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/inter/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/inter/static/Inter-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/inter/static/Inter-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/lora/Lora-Italic-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/lora/Lora-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/lora/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/lora/static/Lora-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/lora/static/Lora-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/fonts/lora/static/Lora-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/images/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/images/icon-arrow-down.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/images/icon-moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/images/icon-new-window.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/images/icon-play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/images/icon-search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/assets/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionary-web-app/starter-code/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iconoir_book.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iconoir_half-moon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iconoir_play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/iconoir_search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tabler_external-link.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DarkMode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Error404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FontSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Meanings.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Word.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/icomoon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/icomoon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/icomoon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/icomoon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/DarkMode.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Error404.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/FontSelect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Meanings.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Search.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Source.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/icons-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitattributes" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lqleJArhR95lxrF2bgWD2zvc3X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/abd elrahman/OneDrive/Desktop/React web Developer/Projects/car-rental-system",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\CLion 2024.2.0.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93e62561-974c-456e-9e6e-3b0420e91f7a" name="Changes" comment="" />
+      <created>1725915581941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725915581941</updated>
+      <workItem from="1725915583574" duration="7000" />
+      <workItem from="1725916059570" duration="29000" />
+      <workItem from="1725916099938" duration="29000" />
+      <workItem from="1725916146172" duration="1026000" />
+      <workItem from="1725917219653" duration="247000" />
+      <workItem from="1725974824648" duration="6000" />
+      <workItem from="1726070107333" duration="5000" />
+      <workItem from="1726070121944" duration="6000" />
+      <workItem from="1726229300474" duration="3511000" />
+      <workItem from="1726262859110" duration="1130000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

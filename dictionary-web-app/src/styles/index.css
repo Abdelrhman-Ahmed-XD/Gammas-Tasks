@@ -1,0 +1,132 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;700&family=Inter:wght@400;700&family=Lora:wght@400;700&display=swap');
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+ul[class],
+ol[class] {
+  list-style: none;
+}
+
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+article > * + * {
+  margin-top: 1em;
+}
+
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+:root {
+    --body_background: white;
+    --body_color: #2D2D2D;
+    --font_family: 'Inter';
+    --moon-color:#757575;
+    --search_background:#F4F4F4;
+}
+
+[data-theme="dark-theme"]{
+    --body_background: #050505;
+    --body_color: white;
+    --moon-color:#A445ED;
+    --search_background:#1F1F1F;
+}
+
+[data-font="font-serif"]{
+    --font_family: 'Lora';
+}
+
+[data-font="font-mono"]{
+    --font_family: 'Inconsolata';
+}
+
+#root{
+    max-width: 738px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root{
+    --body_background: #050505;
+    --body_color: white;
+    --moon-color:#A445ED;
+    --search_background:#1F1F1F;
+  }
+  [data-theme="light-theme"]{
+    --body_background: white;
+    --body_color: #2D2D2D;
+    --moon-color:#757575;
+    --search_background:#F4F4F4;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+      --body_background: white;
+      --body_color: #2D2D2D;
+      --moon-color:#757575;
+      --search_background:#F4F4F4;
+  }
+
+  [data-theme="dark-theme"]{
+      --body_background: #050505;
+      --body_color: white;
+      --moon-color:#A445ED;
+      --search_background:#1F1F1F;
+  }
+}
